@@ -11,7 +11,7 @@ describe('driver', function() {
 
     // This test throws false negatives for some reason
     // it('sets the driver startDate as a date object', function() {
-      // expect(startDate).to.be.instanceof(Date);
+      // expect(driver.startDate).to.be.instanceof(Date);
     // });
   });
 
